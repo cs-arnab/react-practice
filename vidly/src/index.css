@@ -12,3 +12,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.clickable{
+  cursor:pointer;
+  
+}
+.clickable:hover{
+  color: rgb(4, 142, 142);
+  background-color: rgb(243, 243, 209);
+}
+
+
+
+
+
+
+
+
+
